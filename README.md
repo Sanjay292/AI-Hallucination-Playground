@@ -1,5 +1,6 @@
-🧠 AI Hallucination Playground - Local Development Setup
 <img width="544" height="544" alt="image" src="https://github.com/user-attachments/assets/615ab7e3-018b-420e-b501-e06b86e34c9c" />
+
+
 
 # 📋 Prerequisites
 ## Before you begin, ensure you have the following installed:
@@ -26,6 +27,9 @@
 ## 📡 Server: http://localhost:5000
 ## ✨ Ready for unlimited hallucinations!
 
+# Start ollama
+<p>ollama serve
+ 
 # Start Frontend (Terminal 2)
 <p>cd frontend
   
